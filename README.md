@@ -94,8 +94,6 @@ BrowserNeo/BrowserNeo is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-
-
 ![Snake animation](https://github.com/BrowserNeo/BrowserNeo/blob/output/github-contribution-grid-snake-dark.svg)
+
+![Profile_views](https://komarev.com/ghpvc/?username=onniika&color=ff69b4&style=for-the-badge)
