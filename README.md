@@ -3,7 +3,7 @@
        
 
 
-<img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
+<img align="right" width="350" src="[https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png](https://2.downloader.disk.yandex.ru/preview/277d9e38f2ee968c75c406d964f4b63c68082ec039e71988d224c75b183bd0b2/inf/xz6e0vkVHD8zLHs8ISyoMskfmS8ZGyk225TFS-SyEgeJaD-iuzI-IowKJIQRLvb8FNutrV9kLibgw-JEYIWE6A%3D%3D?uid=512488921&filename=SHPADINA_ALENA.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=512488921&tknv=v2&size=2880x1576)"/>
 
   <img src="steck/wave.gif" width="30px">
   
