@@ -3,7 +3,7 @@
        
 
 
-<img align="right" width="350" src=""/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/Onniika/img/main/SHPADINA_ALENA.png"/>
 
   <img src="steck/wave.gif" width="30px">
   
