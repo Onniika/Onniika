@@ -3,7 +3,7 @@
        
 
 
-<img align="right" width="350" src="https://drive.google.com/file/d/1Y86WSItDnAPHmCN9pWORBaeItOdxWbr6/view?usp=sharing"/>
+<img align="right" width="350" src="https://cloud.mail.ru/public/ZsvV/KFQijDT7r"/>
 
   <img src="steck/wave.gif" width="30px">
   
