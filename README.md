@@ -3,7 +3,7 @@
        
 
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/Onniika/img/main/SHPADINA_ALENA.png"/>
+<img align="right" width="450" src="https://raw.githubusercontent.com/Onniika/img/main/SHPADINA_ALENA.png"/>
 
   <img src="steck/wave.gif" width="30px">
   
@@ -17,7 +17,11 @@
 
 <br>
 
+## 🤝 Контакт
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:onniika@yandex.by)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Onniika)
 
+<br>
 
 ## Тестирование API и интеграций
 <div>
@@ -82,11 +86,6 @@
 <br>
 
 ###
-## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:onniika@yandex.by)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Onniika)
-
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
 
 
 <!---
