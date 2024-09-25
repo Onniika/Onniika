@@ -11,7 +11,7 @@
   
   ##  QA Engineer
   
-- 🌱 I’m working now in ROSTRESURS (QA)
+- 🌱 I’m working QA Engineer
 
 - 💞️ I’m currently learning QA Automation
 
